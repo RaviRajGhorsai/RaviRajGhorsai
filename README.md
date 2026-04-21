@@ -1,3 +1,17 @@
+<!-- Badges Row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=codewithsauravphuyal&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/codewithsauravphuyal?label=Followers&style=flat-square&color=a855f7" alt="followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="open to work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20In-Nepal%20%F0%9F%87%B3%F0%9F%87%B5-blue?style=flat-square" alt="location"/>
+</p>
+
+</div>
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011196001891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-raj-791330260/) 
@@ -13,8 +27,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=RaviRajGhorsai&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake gif](https://github.com/RaviRajGhorsai/RaviRajGhorsai/blob/output/github-snake-dark.svg)
