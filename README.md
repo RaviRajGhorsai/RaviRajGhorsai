@@ -2,7 +2,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=RaviRajGhorsai&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/codewithsauravphuyal?label=Followers&style=flat-square&color=a855f7" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/RaviRajGhorsai?label=Followers&style=flat-square&color=a855f7" alt="followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="open to work"/>
   &nbsp;
